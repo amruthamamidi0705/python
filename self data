@@ -1,0 +1,8 @@
+#program to print self data
+print("My name is M.Amrutha Ramatulasi")
+print("My father name is M.Lovaprasad")
+print("My Mother name is M.Suryakumari")
+print("I am pursuing 2nd year degree course in the stream of BCA")
+print("I have a regular habbit of reading books")
+print("I have a lot of interest in solving puzzles")
+print("My fav colour is Black")
